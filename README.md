@@ -1,1 +1,1 @@
-# Created a Digital Clock with simple html , css and javascript.
+# Created a Digital Clock with simple html , css 
